@@ -6,6 +6,8 @@ offices, condos, hotels and shops, connect it with elevators, stairs and
 escalators, and keep a live economy of tenants happy as you climb from
 ★ to ★★★★★.
 
+![Sim Tower demo: a rainy morning rush — tenants commuting, elevators running, and rain falling behind a busy two-star tower](screenshots/demo.gif)
+
 The sky behind your tower mirrors your **real local weather and time of day**
 (clear, cloudy, rain, snow, night). It's pure ambience — the simulation never
 depends on it, and the game is fully playable offline.
@@ -17,22 +19,18 @@ depends on it, and the game is fully playable offline.
 > Deny location and it falls back to a default sky. No data leaves your machine
 > except that one direct weather request.
 
-![A two-star tower during the morning rush, sunny skies](screenshots/tower-day.png)
-
 <table>
 <tr>
+<td width="50%"><img src="screenshots/tower-day.png" alt="A two-star tower during the morning rush under sunny skies"></td>
 <td width="50%"><img src="screenshots/interior-detail.png" alt="Zoomed-in interiors: offices, condos, retail, elevator cars and parking"></td>
-<td width="50%"><img src="screenshots/tower-night.png" alt="The same tower at night: dark offices, warm-lit homes, a crescent moon over the city"></td>
 </tr>
 <tr>
-<td align="center"><em>Every room has a hand-drawn interior; elevator cars carry visible passengers.</em></td>
-<td align="center"><em>Day/night lighting and a real-weather backdrop — here forced to a rainy afternoon below.</em></td>
+<td width="50%"><img src="screenshots/tower-night.png" alt="The tower at night: dark offices, warm-lit homes, a crescent moon over the city"></td>
+<td width="50%"><img src="screenshots/tower-rain.png" alt="The tower under real-weather rain with drifting clouds and a muted sun"></td>
 </tr>
 </table>
 
-![The tower under real-weather rain, with drifting clouds and a muted sun](screenshots/tower-rain.png)
-
-<sub>Screenshots are captured from this game; no third-party art assets are bundled — everything on screen is drawn procedurally.</sub>
+<sub>Every room has a hand-drawn interior and elevator cars carry visible passengers. The demo and screenshots are captured from this game — no third-party art assets are bundled; everything on screen is drawn procedurally.</sub>
 
 ## Running the game
 

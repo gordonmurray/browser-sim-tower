@@ -2,3 +2,10 @@ node_modules/
 dist/
 .npm-cache/
 *.log
+
+# Local secrets — never commit
+tigris.txt
+.env
+.env.*
+*.credentials
+secrets.*
