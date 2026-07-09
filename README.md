@@ -6,6 +6,10 @@ offices, condos, hotels and shops, connect it with elevators, stairs and
 escalators, and keep a live economy of tenants happy as you climb from
 ★ to ★★★★★.
 
+### ▶ [Play it now in your browser](https://browser-sim-tower.t3.tigrisfiles.io/index.html)
+
+No install, no sign-up — it runs entirely in your browser.
+
 ![Sim Tower demo: a rainy morning rush — tenants commuting, elevators running, and rain falling behind a busy two-star tower](screenshots/demo.gif)
 
 The sky behind your tower mirrors your **real local weather and time of day**
